@@ -1,4 +1,4 @@
---Start By @joker_hr
+--Start By @Tele_sudo
 function run(msg,matches)
 
  if msg.content_.text_ == '/myid' or '!myid' or '#myid' and msg.reply_to_message_id_ == 0  then
@@ -27,3 +27,7 @@ patterns = {
 },
 run = run
 }
+
+--End By @Tele_sudo
+--Channel @luaError
+--Not Sky Please 
